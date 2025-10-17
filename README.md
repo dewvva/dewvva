@@ -6,17 +6,20 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Nothing last forever, we can change the future, asekk. Selamat datang di profile milik Jun</p>
 
 ###
 
 <br clear="both">
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dewvva/dewvva/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dewvva/dewvva/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dewvva/dewvva/output/pacman-contribution-graph.svg">
 </picture>
+
+
 
 ###
 
